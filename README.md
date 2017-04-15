@@ -1,2 +1,3 @@
 # coderepo
 # This repo will contain source code related to web development (HTML5, CSS, Javascript)
+# and probably also code in angularJS, nodeJS and who knows what else...
